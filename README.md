@@ -50,3 +50,5 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contact
 For questions or feedback, reach out to [ismail9700](https://github.com/ismail9700).
+
+Note: this was built for learning so it's not mobile responsive
