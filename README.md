@@ -1,9 +1,5 @@
-# Bankist Webpage
-
-Bankist Web Page is a sleek, responsive landing page for the Bankist platform, designed to promote minimalist banking services. Built with HTML, CSS, and JavaScript, it features a modern, user-friendly interface to engage potential users.
-
 ## Demo
-[**View Bankist Web Page Live**](https://ismail-bankist-page.netlify.app/)
+[**View It Live**](https://ismail-bankist-page.netlify.app/)
 
 ## Screenshot
 ![Landing Page Screenshot](screenshots/Screenshot%202022-10-06%20at%2019-47-18%20Bankist%20When%20Banking%20meets%20Minimalist.png)
